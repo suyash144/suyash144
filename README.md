@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Primarily interested in machine learning and neuroscience.
-
-Also interested in computer vision, robotics, optimisation, control theory and signal processing.
